@@ -1,4 +1,4 @@
-# Synthese_traduction
+# synthese_traduction
 Le script est en format Python 3.10.8 notebook et le code est sectionné en blocs.
 Il est recommande de rouler toutes les fonctions en ordre et de rouler ce code sur un échantillon du corpus complet pour évaluer le temps de traitement.
 Les variables globales déclarées en début de code servent de paramètre qui peuvent être modifié selon les usages.
